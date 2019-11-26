@@ -1,11 +1,25 @@
 {
     "packageDirectories": [
         {
-            "path": "force-app",
+            "path": "force-app/main/default/classes",
             "default": true,
-            "package": "dreamhouse",
-            "versionNumber": "3.0.0.NEXT",
+            "package": "dreamhouse_classes",
+            "versionNumber": "1.0.0.NEXT",
             "versionName": "Winter '19"
+        },
+        {
+            "path": "force-app/main/default/classes",
+            "package": "Dreamhouse Classes",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
+        },
+        {
+            "path": "force-app",
+            "package": "Dreamhouse Classes 02",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
         }
     ],
     "namespace": "",
@@ -14,6 +28,9 @@
     "packageAliases": {
         "dreamhouse": "0Ho1I000000XZDVSA4",
         "dreamhouse@2.0.0-4": "04t1I0000036seVQAQ",
-        "dreamhouse@3.0.0-5": "04t1I0000036u98QAA"
+        "dreamhouse@3.0.0-5": "04t1I0000036u98QAA",
+        "Dreamhouse Classes": "0Ho5J000000fxSzSAI",
+        "Dreamhouse Classes 02": "0Ho5J000000fxT4SAI",
+        "Dreamhouse Classes 02@0.1.0-1": "04t5J00000069ByQAI"
     }
 }
